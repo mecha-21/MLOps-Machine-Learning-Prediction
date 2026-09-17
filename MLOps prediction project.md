@@ -1,10 +1,10 @@
-# Project 8: MLOps — Building, Containerizing & Deploying an End-to-End Machine Learning Career Prediction System on AWS EKS (Kubernetes)
+# Project : MLOps — Building, Containerizing & Deploying an End-to-End Machine Learning Career Prediction System on AWS EKS (Kubernetes)
 
 [![Module: MLOps & Kubernetes](https://img.shields.io/badge/Module-MLOps_%26_Kubernetes-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white)](README.md)
 [![Cloud: AWS EKS](https://img.shields.io/badge/Cloud-AWS_EKS_%26_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](README.md)
 [![ML: Scikit--Learn](https://img.shields.io/badge/ML_Engine-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](README.md)
 [![API: FastAPI & Uvicorn](https://img.shields.io/badge/API-FastAPI_%26_Uvicorn-009688?style=for-the-badge&logo=fastapi&logoColor=white)](README.md)
-[![Batch: DevOps-44](https://img.shields.io/badge/Batch-DevOps--44-blueviolet?style=for-the-badge)](README.md)
+
 
 ---
 > [🏠 Master Learning Index](README.md) | [📖 All Summaries](README.md)
