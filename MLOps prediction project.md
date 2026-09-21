@@ -29,7 +29,6 @@
 15. [Step 12: Live Production Verification via AWS LoadBalancer & Swagger Docs](#step-12-live-production-verification-via-aws-loadbalancer--swagger-docs)
 16. [Step 13: Real-World Troubleshooting & Error Resolution Matrix](#step-13-real-world-troubleshooting--error-resolution-matrix)
 17. [Step 14: Infrastructure Cleanup & Resource Teardown](#step-14-infrastructure-cleanup--resource-teardown)
-18. [Step 15: Professional Resume Points & Interview Highlights](#step-15-professional-resume-points--interview-highlights)
 
 ---
 
@@ -697,14 +696,7 @@ Go to **AWS IAM** → **Users** → `mlops-admin-user` → **Security credential
 
 ---
 
-## Step 15: Professional Resume Points & Interview Highlights
 
-Add these bullet points to your resume to showcase production MLOps and Kubernetes orchestration capabilities:
-
-* **End-to-End MLOps Architecture:** Engineered an automated, production-grade Machine Learning inference pipeline deploying a containerized `scikit-learn` predictive model on AWS Elastic Kubernetes Service (EKS).
-* **High-Concurrency API Design:** Developed an asynchronous REST inference engine using `FastAPI` and `Uvicorn` with automated Pydantic schema validation, OpenAPI Swagger documentation, and sub-15ms response latency.
-* **Kubernetes Orchestration & Scalability:** Designed declarative Kubernetes Deployment manifests with 2 auto-scaling replicas, CPU/memory resource limits, zero-downtime rolling update strategies, and AWS Elastic Load Balancing.
-* **Infrastructure as Code with `eksctl`:** Provisioned multi-node AWS EKS clusters across multi-AZ subnets using `eksctl` and CloudFormation, standardizing network interfaces (VPC CNI) and IAM least-privilege role policies.
 
 ---
 > [🏠 Back to Master Index](README.md)
